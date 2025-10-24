@@ -1,0 +1,25 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #121212;
+  color: #e3e3e3;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  margin: 30px auto;
+  width: 80%;
+}
+.card, .ai-card {
+  background: linear-gradient(145deg, #1f1f1f, #292929);
+  border: 1px solid #3a3a3a;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+button {
+  background-color: teal;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+  cursor: pointer;
+}
