@@ -8,7 +8,7 @@ CORS(app)
 def home():
     return jsonify({
         "status": "online",
-        "message": "✅ NEWTRADE Pro AI Sentinel Backend activ!"
+        "message": "✅ NEWTRADE Pro AI Sentinel backend activ!"
     })
 
 if __name__ == '__main__':
